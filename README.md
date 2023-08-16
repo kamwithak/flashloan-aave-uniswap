@@ -1,4 +1,4 @@
-# Arbitrage using Aave and Uniswap protocol
+# Arbitrage between Aave and Uniswap
 
 ## flashloan-aave-uniswap/contracts/Arbitrageur.sol
 
